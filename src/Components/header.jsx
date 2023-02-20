@@ -45,7 +45,9 @@ export default class Header extends Component {
                 <Route path='/Blog' element={<Blog/>}/>
             </Routes>
            </Router>
+           
            </>
+        
         )
     }
 }
